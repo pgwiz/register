@@ -4,6 +4,6 @@
         "email": "brianpeter930@gmail.com"
     },
     "record": {
-        "CNAME": "dtech.is-a.dev"
+        "A": "185.199.108.153"
     }
 }
